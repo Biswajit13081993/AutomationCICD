@@ -21,6 +21,7 @@ public class StandAloneTest {
 		// TODO Auto-generated method stub
 		// new comments are added
 		// Checking new 
+		// Another push
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
